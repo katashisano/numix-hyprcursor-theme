@@ -5,7 +5,7 @@ A cursor theme based on icons from the [Numix icon theme](https://github.com/num
 ## Installing
 
 ```
-./build.sh
+./install.sh
 ```
 
 Then add this to your hyprland.conf:
