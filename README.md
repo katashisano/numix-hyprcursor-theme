@@ -18,3 +18,7 @@ env = HYPRCURSOR_SIZE,24
 Restart or log out and back in for the changes to take effect.
 
 
+## Image
+
+![Numix-Cursor-Theme-PNG](numix-cursors.png)
+
